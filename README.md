@@ -1,5 +1,7 @@
-# Simple Tetris Web App
-# Created with Flutter
+Simple Tetris Web App
+=====================
 
-![Sample] (readmeContent/tetris.png)
+Created with Flutter
+
+![Sample](readmeContent/tetris.png)
 
